@@ -65,7 +65,7 @@ Neural-Network-MNIST/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Neural-Network-MNIST.git
+git clone https://github.com/mandavitripathi25/Neural-Network-using-MNIST-Data.git
 ```
 
 Navigate to the project directory:
